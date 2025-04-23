@@ -1,4 +1,4 @@
-# Essential Electronic Tools Guide
+# Essential Electronic Tools Guide [View Live](https://shivam-pandya-8118.github.io/EWP/)
 
 A comprehensive guide to tools used in electronics work
 
